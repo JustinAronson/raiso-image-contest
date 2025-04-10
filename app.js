@@ -1,6 +1,6 @@
 // Imgur API configuration
 const IMGUR_CLIENT_ID = 'fee03233502446f'; // Replace with your Imgur Client ID
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyWQGaNkveDywKMenMGp-trlemFHeAX8VXJg8krYjXJ4Qxowg0i_bUY0zGZHxUxWdW-4g/exec'; // Replace with your Google Apps Script URL
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwTv825w2IsMp_W2Zk7mLtC9-tqQ93NGKyl-Vya3wc9U86dJdFWtIFYQRKZPTpicxA0kA/exec'; // Replace with your Google Apps Script URL
 
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.getElementById('contestForm');
